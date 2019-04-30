@@ -1,0 +1,11 @@
+#navbarNav {
+    background: url('../assets/img/red-vs-blue-abstract-wallpaper-by-br8y16-on-deviantart.jpg') top;
+    font-family: var(--font-two);
+    background-color: #696969
+}
+
+.navbar-brand {
+    background: url('../assets/img/images\ \(13\).jpg') center;
+    font-family: var(--font-three);
+    font-size: 24pt;
+}
